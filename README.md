@@ -1,1 +1,5 @@
 # content-translation-funnel-analysis
+
+[Section translation](https://www.mediawiki.org/wiki/Content_translation/Section_translation) is an expansion of the [Content Translation](https://www.mediawiki.org/wiki/Content_translation) capabilities. Section translation enables users to expand existing Wikipedia articles by translating new sections. In addition, Section Translation is designed to work on mobile devices (in addition to desktop), which enables users to translate that was not possible with Content Translation before. The [content translation events](https://github.com/wikimedia/schemas-event-secondary/tree/master/jsonschema/analytics/mediawiki/content_translation_event) capture various aspects of user interactions with the content and section translation tools. 
+
+* Task [T290428](https://phabricator.wikimedia.org/T290428) is first iteration of visualizing how users arrive through various entry points, flows, and how many reach the [currently instrumented](https://phabricator.wikimedia.org/T231316) next stages.
