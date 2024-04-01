@@ -1,5 +1,6 @@
 data_qa.ipynb
 events.tsv
+.virtual_documents
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

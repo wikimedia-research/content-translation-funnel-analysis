@@ -1,0 +1,4 @@
+- source: T328913_sx_mobile_entry_points.ipynb
+  quarto-pub:
+    - id: eb55e675-5420-4bc5-b4fa-9b679765973d
+      url: 'https://kcvelaga.quarto.pub/cx-mobile-entry-points-funnel-analysis-v1-jan-2024'
